@@ -56,5 +56,5 @@ int main() {
     }
 
     cout << contador << endl;
-    return 0;A
+    return 0;
 }
